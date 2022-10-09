@@ -1172,7 +1172,7 @@ body {
   }
   
   /** ipad break point **/
-  @media only screen and (max-width: 812px) {
+  @media only screen and (max-width: 850px) {
    
   
       .expertblock {
