@@ -3107,6 +3107,7 @@ body {
       border-radius: 20px 20px 20px 20px;
       padding: 50px 10px 40px 10px;
       background-color: #fff;
+      box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.25);
     }
     .MYDIY {
       height: auto;
@@ -3174,6 +3175,7 @@ body {
       border-radius: 20px 20px 20px 20px;
       padding: 50px 10px 40px 10px;
       background-color: #fff;
+      box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.25);
     }
     .TRheader {
       height: auto;
@@ -3224,6 +3226,7 @@ body {
       border-radius: 20px 20px 20px 20px;
       padding: 50px 10px 40px 10px;
       background-color: #fff;
+      box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.25);
       }
       .DOEheader {
         height: auto;
