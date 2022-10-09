@@ -230,6 +230,8 @@ body {
       justify-content: space-between;
       padding-top: 50px;
       padding-bottom: 50px;
+      gap: 50px;
+      
   
     }
   .projectText {
@@ -259,6 +261,7 @@ body {
     height: auto;
     width: 100%;
     
+    
   }
   .project-nfo1 {
     display: flex;
@@ -280,7 +283,7 @@ body {
     height: auto;
     border-radius: 0px 20px 20px 0px;
     padding: 20px 40px 20px 40px;
-  
+   
     background-color: rgba(255, 199, 0, 0.38);
   }
   .imageStack3 {
@@ -390,8 +393,9 @@ body {
     flex-wrap: wrap;
     height: auto;
     width: 100%;
-    padding-top: 50px;
-  padding-bottom: 50px;
+    padding-top: 0px;
+  padding-bottom: 0px;
+  
   }
   
   .project-nfo2 {
@@ -1168,7 +1172,7 @@ body {
   }
   
   /** ipad break point **/
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 812px) {
    
   
       .expertblock {
