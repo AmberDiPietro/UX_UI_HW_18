@@ -862,7 +862,7 @@ body {
   background-image: url("Throat.png");
   transform: rotateY(  0deg) translateZ(430px); }
   .carousel__face:nth-child(2) { 
-  background-image: url("Dream\ Catcher.png");
+  background-image: url("DreamCatcher.png");
     transform: rotateY( 40deg) translateZ(430px); }
   .carousel__face:nth-child(3) {
   background-image: url("Protection.png");
@@ -874,13 +874,13 @@ body {
   background-image: url("Muladhara.png");
   transform: rotateY(160deg) translateZ(430px); }
   .carousel__face:nth-child(6) { 
-  background-image: url("Wishes\ &.png");
+  background-image: url("Wishes.png");
   transform: rotateY(200deg) translateZ(430px); }
   .carousel__face:nth-child(7) { 
-  background-image: url("Love\,\ Sex\ &\ Magick.png");
+  background-image: url("LoveM.png");
   transform: rotateY(240deg) translateZ(430px); }
   .carousel__face:nth-child(8) {
-  background-image: url("Banish\ &\ Protect.png");
+  background-image: url("Banish.png");
   transform: rotateY(280deg) translateZ(430px); }
   .carousel__face:nth-child(9) {
   background-image: url("Finding.png");
@@ -2020,7 +2020,7 @@ body {
     background-image: url("Throat.png");
     transform: rotateY(  0deg) translateZ(200px); }
   .carousel__face:nth-child(2) { 
-    background-image: url("Dream\ Catcher.png");
+    background-image: url("DreamCatcher.png");
       transform: rotateY( 60deg) translateZ(200px); }
   .carousel__face:nth-child(3) {
     display: none; }
@@ -2033,10 +2033,10 @@ body {
   .carousel__face:nth-child(6) { 
     display: none; }
   .carousel__face:nth-child(7) { 
-    background-image: url("Love\,\ Sex\ &\ Magick.png");
+    background-image: url("LoveM.png");
    transform: rotateY(240deg) translateZ(200px); }
   .carousel__face:nth-child(8) {
-    background-image: url("Banish\ &\ Protect.png");
+    background-image: url("Banish.png");
     transform: rotateY(300deg) translateZ(200px); }
   .carousel__face:nth-child(9) {
     display: none; }
@@ -2760,7 +2760,7 @@ body {
       background-image: url("Throat.png");
       transform: rotateY(  0deg) translateZ(160px); }
     .carousel__face:nth-child(2) { 
-      background-image: url("Dream\ Catcher.png");
+      background-image: url("DreamCatcher.png");
         transform: rotateY( 60deg) translateZ(160px); }
     .carousel__face:nth-child(3) {
       display: none; }
@@ -2773,10 +2773,10 @@ body {
     .carousel__face:nth-child(6) { 
       display: none; }
     .carousel__face:nth-child(7) { 
-      background-image: url("Love\,\ Sex\ &\ Magick.png");
+      background-image: url("LoveM.png");
      transform: rotateY(240deg) translateZ(160px); }
     .carousel__face:nth-child(8) {
-      background-image: url("Banish\ &\ Protect.png");
+      background-image: url("Banish.png");
       transform: rotateY(300deg) translateZ(160px); }
     .carousel__face:nth-child(9) {
       display: none; }
@@ -3557,7 +3557,7 @@ color: #25282b;
     background-image: url("Throat.png");
     transform: rotateY(  0deg) translateZ(160px); }
   .carousel__face:nth-child(2) { 
-    background-image: url("Dream\ Catcher.png");
+    background-image: url("DreamCatcher.png");
       transform: rotateY( 60deg) translateZ(160px); }
   .carousel__face:nth-child(3) {
     display: none; }
@@ -3570,10 +3570,10 @@ color: #25282b;
   .carousel__face:nth-child(6) { 
     display: none; }
   .carousel__face:nth-child(7) { 
-    background-image: url("Love\,\ Sex\ &\ Magick.png");
+    background-image: url("LoveM.png");
    transform: rotateY(240deg) translateZ(160px); }
   .carousel__face:nth-child(8) {
-    background-image: url("Banish\ &\ Protect.png");
+    background-image: url("Banish.png");
     transform: rotateY(300deg) translateZ(160px); }
   .carousel__face:nth-child(9) {
     display: none; }
