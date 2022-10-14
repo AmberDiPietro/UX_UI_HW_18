@@ -551,29 +551,6 @@ body {
     cursor:pointer;
     transform: scale(1.1);
   }
-  .orangeRectangle {
-    display: flex;
-    width: 100%;
-    max-width: 450px;
-    height: auto;
-    border-radius: 0px 20px 20px 0px;
-    padding: 0px 40px 0 40px;
-    background-color: rgba(185, 66, 18, 0.54);
-  }
-  .imageStack2 {
-    display: grid;
-    position: relative;
-    grid-template-columns: repeat(12, 1fr);
-  }
-  .doeimage1 {
-  width: 100%;
-    max-width: 368px;
-  height: auto;
-  grid-row: 1;
-  grid-column: 1 / span 14;
-  padding-top: 30%;
-    z-index: 1;
-  }
   .DOEheader {
     height: auto;
     align-self: stretch;
@@ -588,12 +565,36 @@ body {
     text-align: left;
     color: #25282b;
   }
-  .doeimage2 {
+  .orangeRectangle {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+    border-radius: 0px 20px 20px 0px;
+    padding: 0px 40px 0 40px;
+    background-color: rgba(185, 66, 18, 0.54);
+  }
+  .imageStack2 {
+    display: grid;
+    position: relative;
+    grid-template-columns: repeat(12, 1fr);
+  }
+  .doeimage1 {
   width: 100%;
+  max-width: 368px;
+grid-row: 1;
+grid-column: 1 / span 10;
+padding-top: 30%;
+  z-index: 1;
+  }
+
+  .doeimage2 {
+    width: 100%;
     max-width: 368px;
-  height: auto;
-  grid-column: 3 / -1;
-  grid-row: 1; 
+   height: auto;
+   grid-column: 3 / -1;
+   grid-row: 1;
   
   }
   /*-------------expertise section-------*/
